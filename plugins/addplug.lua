@@ -1,5 +1,5 @@
 local function run(msg, matches)
---by @UB_CH
+--by @SmartGSP
   if is_sudo(msg) then
   local text = matches[1]
   local b = 1
